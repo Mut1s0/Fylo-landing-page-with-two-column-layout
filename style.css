@@ -1,0 +1,28 @@
+:root {
+    /* Primary Colors */
+    --clr-very-dark-blue: hsl( 243, 87%, 12% );
+    --clr-desaturated-blue: hsl( 238, 22%, 44% );
+
+    /* Accent Colors */
+    --clr-bright-blue: hsl( 224, 93%, 58% );
+    --clr-moderate-cyan: hsl( 170, 45%, 43% );
+    
+    /* Neutral Colors */
+    --clr-light-grayish-blue: hsl( 240, 75%, 98% );
+    --clr-light-gray: hsl( 0, 0%, 75% );
+
+    /* Google Fonts */
+
+    /* Headings, Call-to-action, Header Navigation */
+    --ff-Raleway: 'Raleway', sans-serif;
+
+    /* Font Weights */
+    --fw-400: 400;
+    --fw-700: 700;
+
+    /* Body */
+    --ff-Open-Sans: 'Open Sans', sans-serif;
+
+    /* Font Weights */
+    --fw-400: 400;
+}
